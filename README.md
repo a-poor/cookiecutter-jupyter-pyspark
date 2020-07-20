@@ -11,7 +11,7 @@ __Requirements__:
 
 Once cookiecutter is installed, this template can be cloned with the command:
 ```bash
-$ cookiecutter gh:a-poor/cookiecutter-flask
+$ cookiecutter gh:a-poor/cookiecutter-jupyter-pyspark
 ```
 
 Then, the jupyter container can be started with
